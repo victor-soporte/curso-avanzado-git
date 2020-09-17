@@ -30,7 +30,7 @@ Ejemplo de repositorio del curso de Codigo Fuente avanzado
 ``` 
 
 # Contributors
-  Victor Altamirano
+  ***Student name2:*** Victor Altamirano
   
   
   
