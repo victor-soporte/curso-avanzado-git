@@ -31,7 +31,7 @@ Ejemplo de repositorio del curso de Codigo Fuente avanzado
 
 # Contributors
    ***Student name:*** Victor Altamirano
-                       Veronica Ramirez Jauregui 
+                       Veronica Ramirez Jauregui ---*** 
   
   
 
