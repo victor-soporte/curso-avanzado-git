@@ -23,6 +23,12 @@ Ejemplo de repositorio del curso de Codigo Fuente avanzado
   
   [Referencia](https://markdown.es/sintaxis-markdown/)
 
+ ```java
+   public static void main(){
+    System.out.println("Code Starts here");
+    }
+``` 
+
 # Contributors
   Victor Altamirano
   
