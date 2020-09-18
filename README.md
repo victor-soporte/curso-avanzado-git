@@ -31,8 +31,7 @@ Ejemplo de repositorio del curso de Codigo Fuente avanzado
 
 # Contributors
   ***Student name2:*** Victor Altamirano
-  
-  
+  ***Instructor:*** Ricardo Lopez  
   
 
 
