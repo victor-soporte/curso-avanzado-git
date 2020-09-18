@@ -30,9 +30,8 @@ Ejemplo de repositorio del curso de Codigo Fuente avanzado
 ``` 
 
 # Contributors
-  ***Student name:*** Victor Altamirano
-  ***Instructor:*** Ricardo Lopez 
-  
+  ***Student name2:*** Victor Altamirano
+  ***Instructor:*** Ricardo Lopez  
   
 
 
